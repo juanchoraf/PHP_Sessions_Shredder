@@ -29,7 +29,7 @@ or just get the precompiled file on your Linux with:
 ```
 cd /usr/local/src/
 
-wget https://github.com/juanchoraf/PHP_Sessions_Shredder/releases/download/1.0.0/PHP_Sessions_Shredder.raf
+wget https://github.com/juanchoraf/PHP_Sessions_Shredder/releases/download/v1.0.0/PHP_Sessions_Shredder.raf
 ```
 
 ## Installation
